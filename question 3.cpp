@@ -107,5 +107,3 @@ CloseHandle(hThreads[i]);
 system ("pause");
 return 0;
 }
-
-Read more on Brainly.in - https://brainly.in/question/3510634#readmore
